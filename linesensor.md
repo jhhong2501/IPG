@@ -61,18 +61,31 @@ FrD로 해석됩니다 (축 시스템에 대한 정보는 268 페이지의 '차�
 
 ### Update [Hz] - Cycle offset [-]
 
+매개 변수 업데이트 [Hz]는 라인 센서가 환경을 스캔하는 빈도를 정의합니다.
+
+사이클 오프셋 옵션은 시뮬레이션 시작부터 라인 센서 모듈을 활성화해야하는 시뮬레이션 사이클 수에 대한 오프셋을 제공합니다.
+
+따라서 모든 센서가 동일한 시뮬레이션주기에서 계산되는 것은 아닙니다.
+
+이러한 매개 변수는 시뮬레이션 성능에 현저한 영향을 미칠 수 있습니다.
 
 
 ### Body mounting
 
+
+
+
 ### External sensor motion
+
 
 ### Calculation of relative position in mounted frame
 
-###
+
+### Reference point - x- y- z [m]
 
 
 
+## Output Signals provided by the Line Sensor
 
 
 
